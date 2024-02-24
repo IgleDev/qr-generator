@@ -46,6 +46,13 @@ body {
     background-color: white;
 }
 
+#qrcode{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 15%;
+}
+
 @media screen and (max-width: 640px) {
     .input-group input, .input-group button {
         width: 50%;
